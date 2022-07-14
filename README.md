@@ -4,7 +4,7 @@ I build startups live on Twitch @ https://rox.works/stream
 
 Come hang out!
 
-Well known for https://clipbot.tv but also https://sponsors.dev and https://nftlists.me
+Well known for https://thumbnailtest.com and https://clipbot.tv but also https://sponsors.dev and https://nftlists.me
 
 <!--
 **roxkstar74/roxkstar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
